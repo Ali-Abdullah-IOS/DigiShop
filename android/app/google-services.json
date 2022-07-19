@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "299489448187",
+    "project_id": "finalyearproject-3c2c2",
+    "storage_bucket": "finalyearproject-3c2c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299489448187:android:78eb740b8c57338425a05e",
+        "android_client_info": {
+          "package_name": "com.example.digi_rentals"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299489448187-6ufrpt3d450fq9ru580q59nhpi314mcg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7Gydt-p1HN91NCnQZhWhzAfzfXG-lOTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299489448187-6ufrpt3d450fq9ru580q59nhpi314mcg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299489448187:android:e5f3fa308caf3c7325a05e",
+        "android_client_info": {
+          "package_name": "com.example.digirental_shop_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299489448187-6ufrpt3d450fq9ru580q59nhpi314mcg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7Gydt-p1HN91NCnQZhWhzAfzfXG-lOTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299489448187-6ufrpt3d450fq9ru580q59nhpi314mcg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299489448187:android:c9b31905b29dbcef25a05e",
+        "android_client_info": {
+          "package_name": "com.example.digirental_user_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299489448187-6ufrpt3d450fq9ru580q59nhpi314mcg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7Gydt-p1HN91NCnQZhWhzAfzfXG-lOTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299489448187-6ufrpt3d450fq9ru580q59nhpi314mcg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299489448187:android:ce6325a39408a03525a05e",
+        "android_client_info": {
+          "package_name": "com.example.rental_shop_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299489448187-6ufrpt3d450fq9ru580q59nhpi314mcg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7Gydt-p1HN91NCnQZhWhzAfzfXG-lOTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299489448187-6ufrpt3d450fq9ru580q59nhpi314mcg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
