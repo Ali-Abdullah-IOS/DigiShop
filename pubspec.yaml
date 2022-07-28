@@ -63,6 +63,8 @@ dependencies:
   introduction_screen: ^3.0.0
   flutter_launcher_icons: ^0.9.3
   syncfusion_flutter_pdf: ^20.2.39
+  path_provider: ^2.0.1
+  pdf: ^3.8.1
 
   booster:
     git: https://github.com/MuhammadAliKust/Booster/
